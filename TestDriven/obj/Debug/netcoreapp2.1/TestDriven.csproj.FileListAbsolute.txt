@@ -1,0 +1,11 @@
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\bin\Debug\netcoreapp2.1\TestDriven.deps.json
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\bin\Debug\netcoreapp2.1\TestDriven.runtimeconfig.json
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\bin\Debug\netcoreapp2.1\TestDriven.runtimeconfig.dev.json
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\bin\Debug\netcoreapp2.1\TestDriven.dll
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\bin\Debug\netcoreapp2.1\TestDriven.pdb
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\obj\Debug\netcoreapp2.1\TestDriven.csprojAssemblyReference.cache
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\obj\Debug\netcoreapp2.1\TestDriven.csproj.CoreCompileInputs.cache
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\obj\Debug\netcoreapp2.1\TestDriven.AssemblyInfoInputs.cache
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\obj\Debug\netcoreapp2.1\TestDriven.AssemblyInfo.cs
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\obj\Debug\netcoreapp2.1\TestDriven.dll
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\TestDriven\obj\Debug\netcoreapp2.1\TestDriven.pdb

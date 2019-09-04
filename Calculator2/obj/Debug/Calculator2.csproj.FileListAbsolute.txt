@@ -1,0 +1,6 @@
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\Calculator2\bin\Debug\Calculator2.exe.config
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\Calculator2\bin\Debug\Calculator2.exe
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\Calculator2\bin\Debug\Calculator2.pdb
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\Calculator2\obj\Debug\Calculator2.csproj.CoreCompileInputs.cache
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\Calculator2\obj\Debug\Calculator2.exe
+C:\Users\Jez Horton\source\repos\week4\Day3\TestDriven\Calculator2\obj\Debug\Calculator2.pdb
